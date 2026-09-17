@@ -1,6 +1,6 @@
 # Laboratorio de Active Directory — Portfolio Help Desk / IT Support
 
-> ⚠️ **Nota:** todo el contenido de este laboratorio (usuarios, contraseñas, dominio, datos) es **simulado**, creado exclusivamente con fines de práctica y demostración para un portafolio de IT Support / Help Desk. No representa una infraestructura ni datos reales de ninguna organización.
+> **Nota:** todo el contenido de este laboratorio (usuarios, contraseñas, dominio, datos) es **simulado**, creado exclusivamente con fines de práctica y demostración para un portafolio de IT Support / Help Desk. No representa una infraestructura ni datos reales de ninguna organización.
 
 ## Objetivo del proyecto
 
